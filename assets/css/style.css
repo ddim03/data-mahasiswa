@@ -1,0 +1,19 @@
+html, body {
+  font-family: "Poppins", sans-serif;
+}
+
+a,
+a.nav-link {
+  color: #212529;
+  text-decoration: none;
+}
+
+img.thumbnail {
+  width: 80px;
+  aspect-ratio: 1 2;
+}
+
+th,
+td {
+  font-size: 0.94rem;
+}
